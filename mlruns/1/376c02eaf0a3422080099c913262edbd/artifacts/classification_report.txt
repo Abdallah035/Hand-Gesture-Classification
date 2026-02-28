@@ -1,0 +1,24 @@
+                 precision    recall  f1-score   support
+
+           call       0.96      0.95      0.95       301
+        dislike       0.92      0.89      0.91       259
+           fist       0.99      0.96      0.98       189
+           four       0.94      0.98      0.96       327
+           like       0.88      0.91      0.90       287
+           mute       0.95      0.97      0.96       217
+             ok       0.97      0.94      0.96       318
+            one       0.93      0.93      0.93       253
+           palm       0.90      0.98      0.94       330
+          peace       0.92      0.88      0.90       288
+ peace_inverted       0.92      0.94      0.93       299
+           rock       0.99      0.94      0.97       292
+           stop       0.83      0.85      0.84       296
+  stop_inverted       0.85      0.85      0.85       314
+          three       0.95      0.94      0.95       291
+         three2       0.98      0.98      0.98       331
+         two_up       0.93      0.92      0.92       269
+two_up_inverted       0.94      0.92      0.93       274
+
+       accuracy                           0.93      5135
+      macro avg       0.93      0.93      0.93      5135
+   weighted avg       0.93      0.93      0.93      5135
